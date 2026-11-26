@@ -103,6 +103,19 @@ The Linux-focused infrastructure optimizes for open-source applications and deve
 
 ---
 
+## **[Rdp.Vision](https://rdp.vision)**
+
+Windows RDP, Linux VPS and storage VPS paid with crypto, sign up with just an email or Telegram.
+
+![Rdp.Vision Screenshot](image/rdpvision.webp)
+
+
+Rdp.Vision rents Windows RDP servers with administrator access (Windows Server 2019, 2022 or 2025, licence included), Linux VPS with root over SSH, and storage VPS with a 1, 2 or 4 TB HDD. Sign-up needs only an email address or a Telegram account, no ID documents. Windows starts at $13 a month and Linux at $3.90, and the price is the same in all six locations: Amsterdam, Frankfurt, Warsaw, Romania, New York and Hong Kong.
+
+Payment is crypto only: USDT and USDC (BEP20, Solana, TRC20, ERC20), Bitcoin, Ethereum, Litecoin, Solana, BNB and Monero. After the payment confirms, the server is created automatically, Linux in 1 to 5 minutes and Windows in 10 to 20. Every plan has NVMe storage, DDoS protection and unlimited traffic under fair use. Servers can be ordered and managed on the website or entirely through a Telegram bot, and there is an API and an MCP server for scripts and AI agents. Run by Vision Limited, Singapore, since 2023.
+
+***
+
 ## **[VIKHOST](https://www.vikhost.com)**
 
 Ukrainian provider accepting 12+ cryptocurrencies with no KYC and 99.9% uptime guarantee.
